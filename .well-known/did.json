@@ -1,23 +1,23 @@
 {
     "assertionMethod" : [
-        "did:web:https://zargha.github.io#bc32a43be67c48f18e6825a2f755c1dc"
+        "did:web:zargha.github.io#dc9e51e3ec7e47328a701d28101a3ef0"
     ],
     "authentication" : [
-        "did:web:https://zargha.github.io#bc32a43be67c48f18e6825a2f755c1dc"
+        "did:web:zargha.github.io#dc9e51e3ec7e47328a701d28101a3ef0"
     ],
     "@context" : "https://www.w3.org/ns/did/v1",
-    "id" : "did:web:https://zargha.github.io",
+    "id" : "did:web:zargha.github.io",
     "verificationMethod" : [
         {
-            "controller" : "did:web:https://zargha.github.io",
-            "id" : "did:web:https://zargha.github.io#bc32a43be67c48f18e6825a2f755c1dc",
+            "controller" : "did:web:zargha.github.io",
+            "id" : "did:web:zargha.github.io#dc9e51e3ec7e47328a701d28101a3ef0",
             "publicKeyJwk" : {
                 "alg" : "EdDSA",
                 "crv" : "Ed25519",
-                "kid" : "bc32a43be67c48f18e6825a2f755c1dc",
+                "kid" : "dc9e51e3ec7e47328a701d28101a3ef0",
                 "kty" : "OKP",
                 "use" : "sig",
-                "x" : "zPG6IKqEqtZrsw_AeXChUJ19l2wzs1-zfcg6HxhzDhs"
+                "x" : "QEkOUhxlbmz24oqyAqqjNsaaIaQ6j2ZpqUhOEQBqOCo"
             },
             "type" : "Ed25519VerificationKey2019"
         }
