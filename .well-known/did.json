@@ -1,16 +1,16 @@
 {
     "assertionMethod" : [
-        "did:web:https%3A%2F%2Fzargha.github.io%2Fvc-test#215724d875ef4503b8e54bf102c4283a"
+        "did:web:https://zargha.github.io/vc-test#215724d875ef4503b8e54bf102c4283a"
     ],
     "authentication" : [
-        "did:web:https%3A%2F%2Fzargha.github.io%2Fvc-test#215724d875ef4503b8e54bf102c4283a"
+        "did:web:https://zargha.github.io/vc-test#215724d875ef4503b8e54bf102c4283a"
     ],
     "@context" : "https://www.w3.org/ns/did/v1",
-    "id" : "did:web:https%3A%2F%2Fzargha.github.io%2Fvc-test",
+    "id" : "did:web:https://zargha.github.io/vc-test",
     "verificationMethod" : [
         {
-            "controller" : "did:web:https%3A%2F%2Fzargha.github.io%2Fvc-test",
-            "id" : "did:web:https%3A%2F%2Fzargha.github.io%2Fvc-test#215724d875ef4503b8e54bf102c4283a",
+            "controller" : "did:web:https://zargha.github.io/vc-test",
+            "id" : "did:web:https://zargha.github.io/vc-test#215724d875ef4503b8e54bf102c4283a",
             "publicKeyJwk" : {
                 "alg" : "EdDSA",
                 "crv" : "Ed25519",
